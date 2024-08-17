@@ -1,0 +1,24 @@
+.about-me{
+    font-size: 2rem;
+}
+.certification-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.certification-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: calc(33.333% - 20px);
+    text-align: center;
+}
+
+.certification-card img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.skills{
+    font-size: 2rem;
+}
