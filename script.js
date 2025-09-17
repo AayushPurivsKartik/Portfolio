@@ -35,7 +35,7 @@ ScrollReveal().reveal('.home-img, .services-container,.portfolio-box, .contact f
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 const typed=new Typed('.multiple-text',{
-    strings:['Front-end Developer','Back-end Developer','FullStack Developer'],
+    strings:['A.I. Engineer','Machine Learning Engineer','Data Scientist'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
